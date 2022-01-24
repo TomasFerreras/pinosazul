@@ -1,4 +1,4 @@
-# Pinos Azul Maderas :computer: :wrench:
+# Pinos Azul Maderas :chart_with_upwards_trend:
 
 Professional project for Pinos Azul Maderas, a small family business of woodworking and construction supply store located in Argentina
 
