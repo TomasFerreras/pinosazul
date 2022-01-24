@@ -1,4 +1,3 @@
-
 # Pinos Azul Maderas
 
 Professional project for Pinos Azul Maderas, a small family business of woodworking and construction supply store located in Argentina
@@ -6,7 +5,7 @@ Professional project for Pinos Azul Maderas, a small family business of woodwork
 ## Authors
 
 - [@TomasFerreras](https://github.com/TomasFerreras) :metal:
-
+  ![CHEESE!](images/me.png)
 
 ## FAQ
 
@@ -21,8 +20,10 @@ The discovery phase is very important for any project. I started by asking a few
 ### What i learn?
 
 It was a fun project to work on. There were almost no constraints (eg. colors, typography, etc.). The communication went very smooth, from initial discovery to designing and through the final revisions and delivery.
+
 ## Built with
-* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-* [Javascript](https://www.javascript.com/)
-* [GSAP](https://greensock.com/gsap/)
+
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [Javascript](https://www.javascript.com/)
+- [GSAP](https://greensock.com/gsap/)
