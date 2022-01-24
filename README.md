@@ -2,7 +2,7 @@
 
 Professional project for Pinos Azul Maderas, a small family business of woodworking and construction supply store located in Argentina
 
-![CHEESE!](images/home.png)
+![CHEESE!](images/HOME.png)
 
 ## Authors
 
