@@ -9,7 +9,7 @@ Professional project for Pinos Azul Maderas, a small family business of woodwork
 - [@TomasFerreras](https://github.com/TomasFerreras) :metal:
 
 ## Project
-* Responsive Plants Website Using HTML, CSS and JavaScript.
+* Responsive website Using HTML, CSS and JavaScript.
 * Contains animations when scrolling.
 * Developed first with the Mobile First methodology.
 * Compatible with all mobile devices stylish UI and functional UX.
