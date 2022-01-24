@@ -5,7 +5,7 @@ Professional project for Pinos Azul Maderas, a small family business of woodwork
 ## Authors
 
 - [@TomasFerreras](https://github.com/TomasFerreras) :metal:
-  ![CHEESE!](images/me.png = 200x250)
+  ![CHEESE!](images/me.png)
 
 ## FAQ
 
