@@ -34,3 +34,8 @@ It was a fun project to work on. There were almost no constraints (eg. colors, t
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [Javascript](https://www.javascript.com/)
 - [GSAP](https://greensock.com/gsap/)
+
+## Get started
+```console
+    git clone https://github.com/TomasFerreras/pinosazul.git
+```
